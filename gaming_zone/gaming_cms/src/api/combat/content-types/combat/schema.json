@@ -1,0 +1,34 @@
+{
+  "kind": "collectionType",
+  "collectionName": "combats",
+  "info": {
+    "singularName": "combat",
+    "pluralName": "combats",
+    "displayName": "Combat"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "Title": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "text"
+    },
+    "Price": {
+      "type": "integer"
+    }
+  }
+}

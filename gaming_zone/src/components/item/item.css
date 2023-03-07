@@ -1,0 +1,22 @@
+/* .card {
+    width: 30%;
+    box-sizing: border-box;
+    padding: 10px;
+    border: 1px solid;
+    margin: 10px;
+} */
+
+.card {
+    background-color:skyblue;
+    display:inline-block;
+    width: 35%;
+    box-sizing: border-box;
+    padding: 10px;
+    border: 2px solid greenyellow;
+    margin: 10px;
+    min-height: 300px;
+    border-radius: 15px;
+}
+body{ 
+    background-color:lightseagreen;
+}

@@ -1,0 +1,27 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    background-color: lightgreen;
+    color:green;
+}
+i{
+    width: 100px;
+    height: 100px;
+    margin-right:15px;
+    margin-top: 40px ;
+    color:blue
+ 
+}
+h3{
+    margin-left:50px;
+    color:red;
+    font-size: xx-large;
+}
+#cartimg{
+    width:60px;
+    height:80px;
+    margin-right: 15px;
+    margin-top:10px
+
+}
